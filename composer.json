@@ -1,0 +1,13 @@
+{
+    "name": "bdunogier/demo-bundle-data",
+    "description": "Data for ezsystems/demobundle-data",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "eZ Systems dev team",
+            "email": "dev-team@ez.no"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
