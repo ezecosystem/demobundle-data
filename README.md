@@ -1,1 +1,1 @@
-This repository contains data (SQL and binaries) used by ezsystems/demobundle.
+This repository contains binary install data for ezsystems/demobundle.
