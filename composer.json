@@ -1,6 +1,6 @@
 {
-    "name": "bdunogier/demobundle-data",
-    "description": "Data for ezsystems/demobundle-data",
+    "name": "ezsystems/demobundle-data",
+    "description": "Data for ezsystems/demobundle",
     "license": "GPL-2.0",
     "authors": [
         {
@@ -9,5 +9,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "ezsystems/demobundle": "*"
+    }
 }
