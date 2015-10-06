@@ -11,5 +11,10 @@
     "minimum-stability": "stable",
     "require": {
         "ezsystems/demobundle": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
